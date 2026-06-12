@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Ambientes locais
+.venv/
+venv/
+
+# Dados locais gerados pela CLI
+data/
+*.local.json
+
+# Sistema/editor
+.DS_Store
+.idea/
+.vscode/
